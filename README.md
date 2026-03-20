@@ -1,5 +1,8 @@
 # Differentiable KS Guitar Synthesizer
 
+## Result Spectrogram and Audio Preview
+https://bottle-water.github.io/DDSPAcousticGuitar/
+
 ## Requirements
 
 - RunPod pod with PyTorch 2.7.x template
