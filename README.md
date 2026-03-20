@@ -1,6 +1,6 @@
 # Differentiable KS Guitar Synthesizer
 
-## Result Spectrogram and Audio Preview
+## See (and hear) the results here! 
 https://bottle-water.github.io/DDSPAcousticGuitar/
 
 ## Requirements
